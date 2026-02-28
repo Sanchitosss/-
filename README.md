@@ -60,9 +60,13 @@ python main.py
 📌 Структура проекта
 text
 linked-list-manager/
+
 │
+
 ├── main.py          # Основной код с классами Node и ListNode
+
 └── README.md        # Документация проекта
+
 🎯 Цель проекта
 Учебный проект для понимания:
 
